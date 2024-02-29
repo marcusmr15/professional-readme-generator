@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a professional Readme generator that helps you quickly create quality README.md files for your projects!
+This is a professional Readme generator that helps you quickly create quality README.md files for your projects! Please refer to the 'Usage' section to watch a video on how to use the app.
 
 ## Table of Contents
 
@@ -25,11 +25,14 @@ To install the Professional Readme Generator, follow these steps:
 
 ## Usage
 
+🎬 [Click here](https://drive.google.com/file/d/1hcfwGuPmfL5BWGz5HHAQxrwQrjOP104_/view?usp=sharing) to watch a video demonstrating steps 1-5, described below.
 1. Open your terminal.
 2. Navigate to the project folder.
 3. Run `node index.js` to start the application.
 4. Answer the prompts to generate your README.md file.
 5. Your generated README/ms file will be located within the `dist` folder.
+6. Generating a new README.ms file will replace the last one created.
+7. The `Open preview` feature will display the preview of the first README.md file generated. Please save, close and reopen the project to preview the new generated file.
 
 ## Credits
 

@@ -30,7 +30,7 @@ function renderLicenseSection(license) {
 function contributeAnswer(contributing, guidelines) {
   if (contributing.includes("yes")) {
     return `To contribute to this project, please follow these guidelines: 
-    * ${guidelines}`;
+    ${guidelines}`;
   } else {
     return `N/A`;
   }
