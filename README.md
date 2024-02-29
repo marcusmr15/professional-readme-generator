@@ -1,8 +1,8 @@
-# Project Title
+# Professional Readme Generator
 
 ## Description
 
-Placeholder text for the description.
+This is a professional Readme generator that helps you quickly create quality README.md files for your projects!
 
 ## Table of Contents
 
@@ -16,11 +16,20 @@ Placeholder text for the description.
 
 ## Installation
 
-Placeholder text for the installation instructions.
+To install the Professional Readme Generator, follow these steps:
+
+1. Clone the [professional-readme-generator](https://github.com/marcusmr15/professional-readme-generator) repository from GitHub.
+2. Navigate to the project folder.
+3. Run `npm install` in the terminal or bash to install the required dependencies.
+
 
 ## Usage
 
-Placeholder text for the intended usage of this project.
+1. Open your terminal.
+2. Navigate to the project folder.
+3. Run `node index.js` to start the application.
+4. Answer the prompts to generate your README.md file.
+5. Your generated README/ms file will be located within the `dist` folder.
 
 ## Credits
 
@@ -32,22 +41,25 @@ This project was created with the help of:
 
 ## License
 
-Placeholder for the project's license.
+* This project has no specific license. 
+* This project was created by Marcos Munoz.
 
 ## Contributing
 
 If you would like to contribute, please follow these guidelines:
 
-1. Placeholder
-2. Placeholder
-3. Placeholder
-4. Placeholder
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature-name` in your terminal/bash).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Create a new Pull Request.
 
 ## Tests
 
-Text placeholder for tests.
+N/A.
 
 ## Questions
 
 * GitHub profile: [marcusmr15](https://github.com/marcusmr15).
 * If you wish to connect with me and/or contribute to this or any of my other GitHub repositories, please contact me at marcos.munoz@saei.mx.
+
